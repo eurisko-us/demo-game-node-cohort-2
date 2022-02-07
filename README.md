@@ -3,4 +3,5 @@ Once you've cloned it down, put your name and push the update:
 - Charlie
 - William
 - Maia
-- ...
+- Justin
+- 
